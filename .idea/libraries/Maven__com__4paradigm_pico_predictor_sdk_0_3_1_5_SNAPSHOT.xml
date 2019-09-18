@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com._4paradigm.pico:predictor-sdk:0.3.1.5-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/_4paradigm/pico/predictor-sdk/0.3.1.5-SNAPSHOT/predictor-sdk-0.3.1.5-20190801.053818-2.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/_4paradigm/pico/predictor-sdk/0.3.1.5-SNAPSHOT/predictor-sdk-0.3.1.5-20190801.053818-2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/_4paradigm/pico/predictor-sdk/0.3.1.5-SNAPSHOT/predictor-sdk-0.3.1.5-20190801.053818-2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

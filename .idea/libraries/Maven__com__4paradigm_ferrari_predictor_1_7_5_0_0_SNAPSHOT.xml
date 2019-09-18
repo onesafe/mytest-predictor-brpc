@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com._4paradigm:ferrari-predictor:1.7.5.0.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/_4paradigm/ferrari-predictor/1.7.5.0.0-SNAPSHOT/ferrari-predictor-1.7.5.0.0-20190626.090109-2.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/_4paradigm/ferrari-predictor/1.7.5.0.0-SNAPSHOT/ferrari-predictor-1.7.5.0.0-20190626.090109-2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/_4paradigm/ferrari-predictor/1.7.5.0.0-SNAPSHOT/ferrari-predictor-1.7.5.0.0-20190626.090109-2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com._4paradigm:ferrari-i18n:1.7.4.1-core001-RELEASE">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/_4paradigm/ferrari-i18n/1.7.4.1-core001-RELEASE/ferrari-i18n-1.7.4.1-core001-RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/_4paradigm/ferrari-i18n/1.7.4.1-core001-RELEASE/ferrari-i18n-1.7.4.1-core001-RELEASE-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/_4paradigm/ferrari-i18n/1.7.4.1-core001-RELEASE/ferrari-i18n-1.7.4.1-core001-RELEASE-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

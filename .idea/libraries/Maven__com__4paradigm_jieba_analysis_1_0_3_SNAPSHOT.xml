@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com._4paradigm:jieba-analysis:1.0.3-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/_4paradigm/jieba-analysis/1.0.3-SNAPSHOT/jieba-analysis-1.0.3-20180119.144237-1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/_4paradigm/jieba-analysis/1.0.3-SNAPSHOT/jieba-analysis-1.0.3-20180119.144237-1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/_4paradigm/jieba-analysis/1.0.3-SNAPSHOT/jieba-analysis-1.0.3-20180119.144237-1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

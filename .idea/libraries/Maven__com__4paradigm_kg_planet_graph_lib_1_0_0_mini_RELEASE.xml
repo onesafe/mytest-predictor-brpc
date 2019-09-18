@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com._4paradigm.kg:planet-graph-lib:1.0.0.mini-RELEASE">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/_4paradigm/kg/planet-graph-lib/1.0.0.mini-RELEASE/planet-graph-lib-1.0.0.mini-RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/_4paradigm/kg/planet-graph-lib/1.0.0.mini-RELEASE/planet-graph-lib-1.0.0.mini-RELEASE-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/_4paradigm/kg/planet-graph-lib/1.0.0.mini-RELEASE/planet-graph-lib-1.0.0.mini-RELEASE-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
