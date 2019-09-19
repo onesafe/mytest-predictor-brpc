@@ -28,10 +28,17 @@ public class App
 
         Thread.sleep(3000);
 
-        for (int i=0; i<50; i++) {
-            PredictResponse response = ZhenAi.predict(predictorBrpcClient, pr);
-            System.out.println(response.getInstances().get(2999).getScores());
+
+        long predictStart = System.currentTimeMillis();
+        for (int i=0; i<999; i++) {
+            ZhenAi.predict(predictorBrpcClient, pr);
         }
+
+        PredictResponse response = ZhenAi.predict(predictorBrpcClient, pr);
+        long predictEnd = System.currentTimeMillis();
+        System.out.println("Average 1000 cost time: " + (predictEnd - predictStart)/1000 + "ms");
+
+        System.out.println(response.getInstances().get(2999).getScores());
     }
 
 }
